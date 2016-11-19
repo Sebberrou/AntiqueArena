@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C1A6CD9D-9FEC-468E-9113-36DB41967019}|Default">
+  <MonoDevelop.Ide.ItemProperties.AntiqueArena PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AntiqueArena/Arena/Duel.cs">
+    <Files>
+      <File FileName="AntiqueArena/Arena/Hit.cs" Line="18" Column="77" />
+      <File FileName="AntiqueArena/Arena/Duel.cs" Line="10" Column="3" />
+      <File FileName="AntiqueArena/Character/Gladiator.cs" Line="132" Column="20" />
+      <File FileName="AntiqueArena/Stuff/Equipement.cs" Line="3" Column="1" />
+      <File FileName="AntiqueArena/Program.cs" Line="75" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
